@@ -5,7 +5,7 @@ This is a web based application developed for health related health based websit
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* - https://thankful-coast-0d9410400.2.azurestaticapps.net
+*Project Link* - https://jolly-bay-05fff1b00.2.azurestaticapps.net
 
 *project Demo video link* -
 
@@ -85,9 +85,9 @@ This is a web based application developed for health related health based websit
 
 
 ### static web apps -
+![p17](https://user-images.githubusercontent.com/118421848/208408057-06599255-e78e-49a3-b9a9-0c5deee88095.png)
 
 
-![p16](https://user-images.githubusercontent.com/118421848/208397881-8c8e4ec3-d3b1-4077-bc48-c0bfbc0d2fb6.png)
 
 
 
