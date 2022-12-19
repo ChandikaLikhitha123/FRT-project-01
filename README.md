@@ -85,8 +85,9 @@ This is a web based application developed for health related health based websit
 
 
 ### static web apps -
-![p17](https://user-images.githubusercontent.com/118421848/208408057-06599255-e78e-49a3-b9a9-0c5deee88095.png)
 
+
+![image](https://user-images.githubusercontent.com/118421848/208409192-339bf410-b9c7-4380-98a5-aa07d8093f81.png)
 
 
 
