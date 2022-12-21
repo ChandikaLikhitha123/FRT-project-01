@@ -7,7 +7,7 @@ This is a web based application developed for health related health based websit
 
 *Project Link* - https://jolly-bay-05fff1b00.2.azurestaticapps.net
 
-*project Demo video link* -
+*project Demo video link* -  https://youtu.be/cQIuWKVZ8hc
 
 
 ## Features and Functionalities 😃
